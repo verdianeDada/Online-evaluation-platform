@@ -1,8 +1,12 @@
 # MCQ Distance Evalution Platform
 
-<p align="center">
-  <img  alt="Demo Video" src="https://github.com/verdianeDada/MCQ-distance-evaluation-platform/blob/master/Demo_video.gif">
-</p>
+<div align="center">
+  
+https://user-images.githubusercontent.com/35493201/186771406-0569dd76-01bd-44ad-adb0-cf41e42e76b9.mp4
+
+</div>
+
+
 
 ## Introduction
 As part of my portfolio, this web application was designed and implemented from scratch as a personal project
