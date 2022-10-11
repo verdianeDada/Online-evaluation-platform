@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/35493201/186771686-98b687b0-6dc1-4f64-
 Consult my Curriculum Vitae <a href="https://github.com/verdianeDada/CV/blob/main/En_CV_Developpement_DADA.pdf">Here</a>
 
 ## Introduction
-As part of my portfolio, this web application was designed and implemented from scratch as a personal project
+As part of my portfolio, this web application was designed and implemented from scratch as a personal project.
 
 ## Context
 This is an evaluation web app initially designed for a computer science department of the University of Bambili, Cameroon.
